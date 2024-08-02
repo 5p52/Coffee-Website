@@ -455,6 +455,7 @@ textarea {
       #navbar {
         flex-direction: column;
       }
+    /*
         navbar ul {
     margin-left: auto;
   display: flex;
@@ -463,9 +464,12 @@ textarea {
     align-items: center;
   padding: auto;
 }
+*/
 navbar ul a {
     margin: 0px 3px;
     text-align: center;
+    justify-content: center;
+    align-items: center;
     display: flex;
     }
       #navbar img {
