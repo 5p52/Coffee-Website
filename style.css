@@ -472,9 +472,9 @@ textarea {
     
     nav ul li a {
     margin: 0px 3px;
-    text-align: right;
-    justify-content: ;
-    align-items: ;
+    text-align: center;
+    justify-content: crnter;
+    align-items: center;
     display: flex;
     }
     
