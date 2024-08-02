@@ -465,6 +465,7 @@ textarea {
 }
 navbar ul a {
     margin: 0px 8px;
+    disply: block;
     }
       #navbar img {
         margin-bottom: 20px;
