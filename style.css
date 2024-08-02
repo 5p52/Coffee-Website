@@ -464,8 +464,9 @@ textarea {
   padding: auto;
 }
 navbar ul a {
-    margin: 0px 8px;
+    margin: 0px 3px;
     text-align: center;
+    display: flex;
     }
       #navbar img {
         margin-bottom: 20px;
