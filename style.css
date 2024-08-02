@@ -465,7 +465,7 @@ textarea {
   padding: auto;
 }
 */
-navbar ul a {
+navbar ul li a {
     margin: 0px 3px;
     text-align: center;
     justify-content: center;
