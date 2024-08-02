@@ -409,11 +409,11 @@ textarea {
       margin-left: 20px;
     }
   
-    nav ul {
+    #navbar ul {
       margin-right: 20px;
     }
   
-    nav ul li a {
+    #navbar ul a {
       padding: 10px;
       margin: 0px 3px;
     text-align: center;
@@ -470,7 +470,7 @@ textarea {
 }
 
     
-    #navbar ul li a {
+    #navbar ul a {
     margin: 0px 3px;
     text-align: center;
     justify-content: crnter;
