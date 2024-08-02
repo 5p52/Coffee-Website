@@ -415,6 +415,11 @@ textarea {
   
     nav ul li a {
       padding: 10px;
+      margin: 0px 3px;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    display: flex;
     }
   
     header .content h1 {
