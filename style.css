@@ -455,7 +455,7 @@ textarea {
       #navbar {
         flex-direction: column;
       }
-        nav ul li a {
+        navbar ul {
     margin-left: auto;
   display: flex;
     flex-direction: column;
