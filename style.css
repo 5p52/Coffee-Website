@@ -461,7 +461,7 @@ textarea {
         flex-direction: column;
       }
     /
-        nav ul {
+        #navbar ul {
     margin-left: ;
     display: flex;
     flex-direction: column;
@@ -470,7 +470,7 @@ textarea {
 }
 
     
-    nav ul li a {
+    #navbar ul li a {
     margin: 0px 3px;
     text-align: center;
     justify-content: crnter;
