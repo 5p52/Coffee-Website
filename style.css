@@ -456,9 +456,9 @@ textarea {
         flex-direction: column;
       }
         nav ul li a {
-    margin-left: 50px;
+    margin-left: 10px;
   text-align: center;
-  padding: 15px 20px;
+  padding: 10px 5px;
   font-weight: 600;
 }
       #navbar img {
