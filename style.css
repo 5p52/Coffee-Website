@@ -462,8 +462,9 @@ textarea {
     justify-content: center;
     align-items: center;
   padding: auto;
-  font-weight: 600;
 }
+navbar ul a {
+    margin: 0px 8px;
       #navbar img {
         margin-bottom: 20px;
       }
