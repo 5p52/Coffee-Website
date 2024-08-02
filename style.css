@@ -460,8 +460,8 @@ textarea {
       #navbar {
         flex-direction: column;
       }
-    /*
-        navbar ul {
+    
+        nav ul {
     margin-left: auto;
   display: flex;
     flex-direction: column;
@@ -469,8 +469,8 @@ textarea {
     align-items: center;
   padding: auto;
 }
-*/
-navbar ul li a {
+
+nav ul li a {
     margin: 0px 3px;
     text-align: right;
     justify-content: right;
