@@ -454,6 +454,8 @@ textarea {
     @media (max-width: 550px) {
       #navbar {
         flex-direction: column;
+          align-items: center;
+           justify-content: space-between;
       }
   
       #navbar img {
