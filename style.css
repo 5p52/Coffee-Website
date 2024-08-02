@@ -469,13 +469,15 @@ textarea {
     align-items: center;
 }
 */
-nav ul li a {
+    /*
+    nav ul li a {
     margin: 0px 3px;
     text-align: right;
     justify-content: right;
     align-items: right;
     display: flex;
     }
+    */
       #navbar img {
         margin-bottom: 20px;
       }
