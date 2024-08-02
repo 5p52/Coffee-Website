@@ -451,7 +451,7 @@ textarea {
     }
   
     /* Mobile Devices */
-    @media (max-width: 528px) {
+    @media (max-width: 550px) {
       #navbar {
         flex-direction: column;
       }
