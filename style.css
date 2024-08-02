@@ -416,9 +416,9 @@ textarea {
     nav ul li a {
       padding: 10px;
       margin: 0px 3px;
-    text-align: right;
-    justify-content: right;
-    align-items: right;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
     display: flex;
     }
   
@@ -460,7 +460,7 @@ textarea {
       #navbar {
         flex-direction: column;
       }
-    /*
+    /
         nav ul {
     margin-left: ;
     display: flex;
@@ -468,13 +468,13 @@ textarea {
     justify-content: center;
     align-items: center;
 }
-*/
+
     
     nav ul li a {
     margin: 0px 3px;
     text-align: right;
-    justify-content: right;
-    align-items: right;
+    justify-content: ;
+    align-items: ;
     display: flex;
     }
     
