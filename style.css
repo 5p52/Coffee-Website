@@ -467,9 +467,9 @@ textarea {
 */
 navbar ul li a {
     margin: 0px 3px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
     display: flex;
     }
       #navbar img {
