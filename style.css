@@ -465,7 +465,7 @@ textarea {
     margin-left: ;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -473,7 +473,7 @@ textarea {
     #navbar ul a {
     margin: 0px 3px;
     text-align: center;
-    justify-content: crnter;
+    justify-content: space-between;
     align-items: center;
     display: flex;
     }
